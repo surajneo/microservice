@@ -1,0 +1,1 @@
+insert into phone(no_type,number,customer_id) values ('MOBILE',9988776655L,1),('HOME',5544332211L,1);
